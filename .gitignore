@@ -1,0 +1,5 @@
+*.swp
+private/*
+!private/.gitkeep
+terraform.tfstate
+terraform.tfstate.backup
