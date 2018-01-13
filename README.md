@@ -1,5 +1,7 @@
 # docker-simple
 
+![circleci][circleci]
+
 The simplest stack. *docker-simple* launches a single DigitalOcean Droplet, assigns a public IP address, and installs Docker.
 
 ### Prerequisites
@@ -40,3 +42,5 @@ the server and connect via SSH.
 
 
 
+
+[circleci]: https://img.shields.io/circleci/project/github/vektorcloud/simple-stack.svg "simple-stack"
