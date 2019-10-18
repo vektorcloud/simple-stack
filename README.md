@@ -43,4 +43,4 @@ the server and connect via SSH.
 
 
 
-[circleci]: https://img.shields.io/circleci/project/github/vektorcloud/simple-stack.svg "simple-stack"
+[circleci]: https://img.shields.io/circleci/build/gh/vektorcloud/simple-stack?color=1dd6c9&logo=CircleCI&logoColor=1dd6c9&style=for-the-badge "simple-stack"
