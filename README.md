@@ -1,6 +1,6 @@
 # docker-simple
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/simple-stack)
 
 The simplest stack. *docker-simple* launches a single DigitalOcean Droplet, assigns a public IP address, and installs Docker.
 
